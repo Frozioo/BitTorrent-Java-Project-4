@@ -1,0 +1,5 @@
+One Phrase
+the quick red fox
+jumps over
+the lazy brown dog.
+END

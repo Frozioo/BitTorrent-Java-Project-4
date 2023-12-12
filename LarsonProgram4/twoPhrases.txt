@@ -1,0 +1,9 @@
+Phrase One
+the quick red fox
+jumps over
+the lazy brown dog.
+END
+Phrase Two
+All the glitter
+isn't gold.
+END
